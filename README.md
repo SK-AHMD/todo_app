@@ -19,7 +19,7 @@ This Flutter project is a simple todo application where users can manage their t
 ### Adding Task
 <img src="lib/screenshots/add_new_task.png" alt="adding Task" width="300" height="500">
 
-### Deleting Task
+### Deleting Task # (slidable)
 <img src="lib/screenshots/detele_task.png" alt="delete Task" width="300" height="500">
 
 ### Editing Task
