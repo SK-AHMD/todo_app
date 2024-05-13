@@ -12,13 +12,13 @@ This Flutter project is a simple todo application where users can manage their t
 ## Screenshots
 
 ### Adding Task
-![Adding Task](screenshots/add_task.png)
+![Adding Task](lib/screenshots/add_new_task.png)
 
 ### Deleting Task
-![Deleting Task](screenshots/delete_task.png)
+![Deleting Task](lib/screenshots)
 
 ### Editing Task
-![Editing Task](screenshots/edit_task.png)
+![Editing Task](lib/screenshots)
 
 ## APK Link
 [Download Todo App APK](https://drive.google.com/file/d/1K3m-XflWhSRHje0toGhQH5B9lSquTTAT/view?usp=drive_link)
