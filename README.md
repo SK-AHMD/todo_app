@@ -10,15 +10,20 @@ This Flutter project is a simple todo application where users can manage their t
 - **Mark Task as Completed**: Tasks can be marked as completed to keep track of progress.
 
 ## Screenshots
+### UI
+<img src="lib/screenshots/Screenshot_1715605697.png" alt="Adding Task" width="300" height="600">
+
+### Mark as Done!
+<img src="lib/screenshots/mark_as_done.png" alt="Adding Task" width="300" height="600">
 
 ### Adding Task
 <img src="lib/screenshots/add_new_task.png" alt="Adding Task" width="300" height="600">
 
 ### Deleting Task
-![Deleting Task](lib/screenshots)
+<img src="lib/screenshots/delete_task.png" alt="Adding Task" width="300" height="600">
 
 ### Editing Task
-![Editing Task](lib/screenshots)
+<img src="lib/screenshots/edit_task.png" alt="Adding Task" width="300" height="600">
 
 ## APK Link
 [Download Todo App APK](https://drive.google.com/file/d/1K3m-XflWhSRHje0toGhQH5B9lSquTTAT/view?usp=drive_link)
